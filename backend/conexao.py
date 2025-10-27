@@ -22,3 +22,4 @@ def conectar():
         print(f"Erro de conexão {erro}")
         return None, None
     
+ 
